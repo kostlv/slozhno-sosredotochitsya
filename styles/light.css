@@ -9,4 +9,17 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+  --accent: #FF8DCB;
+  --text-primary: #353430;
+  --text-on-accent: #353430;
+  --background: #FFF1F7;
+  --header-background: url('../images/cover-image-light.png');
+  --header-heading: #FFC2E6;
+  --story-heading: var(--text-primary);
+  --theme-button-color: var(--text-primary);
+  --theme-button-hover-color: rgba(50, 49, 45, 0.4);
+  --decoration-color: #353430;
+  --link-shadow-color: #FF8DCB;
+  --story-heading: currentColor;
+  --header-decoration-visibility: hidden;
 }
